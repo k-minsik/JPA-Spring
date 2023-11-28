@@ -1,12 +1,7 @@
-## 1. 프로젝트 환경설정
+# JPA 활용 1 - 웹 애플리케이션 개발
+> 전체 코드를 공개하지 않았습니다.
 
-## 2. 요구사항 분석
-- 도메인 설계
+---
 
-## 3. 애플리케이션 구현 준비
-
-## 4. 회원 개발
-
-## 5. 상품 개발
-
-## 6. 주문 개발
+<p style='text-align: center;'><img src="./images/jpa1-1.png"></p>
+<p style='text-align: center;'><img src="./images/jpa1-2.png"></p>
